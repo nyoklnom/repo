@@ -39,14 +39,13 @@ body {
 /* HERO */
 
 .hero {
-    background-image:url(Pictures/wow.webp);
+    background-image:url(Pictures/Wow.webp);
     Background-size:cover;
     min-height: 380px;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-color: #d9dfc3;
     padding: 70px;
 }
 
