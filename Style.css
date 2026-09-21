@@ -39,7 +39,7 @@ body {
 /* HERO */
 
 .hero {
-    background-image:url(Pictures/Wow.webp);
+    background-image:url(Pictures/wow.webp);
     Background-size:cover;
     min-height: 380px;
     display: flex;
